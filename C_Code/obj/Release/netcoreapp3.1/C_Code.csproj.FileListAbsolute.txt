@@ -1,0 +1,14 @@
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.exe
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.deps.json
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.runtimeconfig.json
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.runtimeconfig.dev.json
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.dll
+D:\School\IPASS\J1Propedeuse\C_Code\bin\Release\netcoreapp3.1\C_Code.pdb
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.HoofdScherm.resources
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.csproj.GenerateResource.cache
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.AssemblyInfoInputs.cache
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.AssemblyInfo.cs
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.csproj.CoreCompileInputs.cache
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.dll
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.pdb
+D:\School\IPASS\J1Propedeuse\C_Code\obj\Release\netcoreapp3.1\C_Code.genruntimeconfig.cache

@@ -4,5 +4,8 @@
     <Compile Update="HoofdScherm.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="MapScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

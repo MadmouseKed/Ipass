@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\IPASS\\CODE\\C_Code\\C_Code.csproj": {}
+    "D:\\School\\IPASS\\J1Propedeuse\\C_Code\\C_Code.csproj": {}
   },
   "projects": {
-    "D:\\School\\IPASS\\CODE\\C_Code\\C_Code.csproj": {
+    "D:\\School\\IPASS\\J1Propedeuse\\C_Code\\C_Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\IPASS\\CODE\\C_Code\\C_Code.csproj",
+        "projectUniqueName": "D:\\School\\IPASS\\J1Propedeuse\\C_Code\\C_Code.csproj",
         "projectName": "C_Code",
-        "projectPath": "D:\\School\\IPASS\\CODE\\C_Code\\C_Code.csproj",
+        "projectPath": "D:\\School\\IPASS\\J1Propedeuse\\C_Code\\C_Code.csproj",
         "packagesPath": "C:\\Users\\Gebruiker\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\IPASS\\CODE\\C_Code\\obj\\",
+        "outputPath": "D:\\School\\IPASS\\J1Propedeuse\\C_Code\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
